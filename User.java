@@ -64,10 +64,7 @@ public class User {
 	private String userName;
 	private String UserMail;
 	private String password;
-	//	public User get(Class<User> class1, int id) {
-	//		// TODO Auto-generated method stub
-	//		return null;
-	//	}
+	
 	/**
 	 * @return the userId
 	 */
